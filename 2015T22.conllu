@@ -15,7 +15,7 @@
 10	fali	fali	VERB	v	Aspect=Compl	11	comp:aux	_	Gloss=COMPL
 11	mo-	m-	AUX	v:(Modality1)	_	13	comp:aux	_	Gloss=?-
 12	tou	tou_2	NOUN	n  (ei)	_	10	comp:aux	_	Gloss=night
-13	-na	-na_1	AUX	v:(Aspect/Modality2)	_	14	comp:aux	_	Gloss=-?INTSFIER?
+13	-na	-na_1	AUX	v:(Aspect/Modality2)	_	14	comp:aux	_	Gloss=-INTSFIER?
 14	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	17	conj:chain	_	Gloss=-MED
 15	touteli	touteli	ADJ	adj	_	16	comp:aux	_	Gloss=dark_black
 16	-lo	-lo_4	AUX	v:(Tense)	Tense=Past	17	comp:aux	_	Gloss=-PST
