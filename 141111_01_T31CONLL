@@ -1,0 +1,18 @@
+# sent_id = 1.1
+# text = ta ofa sante -mo sumoo -he sou -mo onoma tia -li -io
+# text_en = Today, since the rain was falling down, we  stay in the house./mipla today sunday ren paund daun (=passé, vs souwo
+# doc_id = 141116_02_T48
+# doc_title = Wanpla de biling mipla
+1	ta	ta_1	PRON	pers	Number=Plur|Person=1|PronType=Prs	12	subj	_	Gloss=1PL
+2	ofa	ofa	ADV	adv	_	12	mod	_	Gloss=today
+3	sante	sande	NOUN	n	_	4	mod:det	_	Gloss=sunday
+4	-mo	-mo_5	DET	n:Tout	Case=Tem	12	mod	_	Gloss=-TIME
+5	sumoo	sumoo	NOUN	n  (he)	_	6	mod:det	_	Gloss=rain
+6	-he	-he_1	DET	n:(NounGenderNumber)	Number=Sing	7	subj	_	Gloss=-IV.SG|NounClass=Tww4
+7	sou	sou	VERB	v	_	8	conj:conj	_	Gloss=to_rain
+8	-mo	-mo_6	VERB	v	VerbForm=Med	12	conj:conj	_	Gloss=-MED2simultaneous
+9	onoma	onoma	ADV	adv	_	12	mod	_	Gloss=to_house
+10	tia	sele_1	VERB	v	_	11	aux@m	_	Gloss=to_stay
+11	-li	-li_4	AUX	v:(Tense)	Tense=Past	12	aux@m	_	Gloss=-PST_(this_morning)
+12	-io	-io_1	AUX	v:(Chaining)	VerbForm=Fin	0	root	_	Gloss=-FIN
+
