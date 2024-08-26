@@ -31,25 +31,25 @@
 3	-we	-we_1	DET	n:(NounGenderNumber)	Gender=Masc|Number=Sing	4	comp	_	Gloss=-M.SG|NounClass=Tww1
 4	-fa	-fa_3	X	Pro-form	Case=Dis	10	cc	_	Gloss=-DISTR
 5	ni	ni_1	NOUN	n  (tanoi)tano	_	6	compound	_	Gloss=fire
-6	tosi	tosi_1	NOUN	n	_	7	comp	_	Gloss=torch
+6	tosi	tosi_1	NOUN	n	_	7	comp:det	_	Gloss=torch
 7	-tano	-tano	DET	n:(NounGenderNumber)	Number=Sing	8	comp	_	Gloss=-X.SG|NounClass=Tww10
 8	-lo	-lo_3	NOUN	n	Case=Com	4	mod:appos	_	Gloss=-COM
 9	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	10	comp	_	Gloss=1SG
 10	-fa	-fa_3	X	Pro-form	Case=Dis	32	subj	_	Gloss=-DISTR
 11	ni	ni_1	NOUN	n  (tanoi)tano	_	12	comp	_	Gloss=fire
-12	tosi	tosi_1	NOUN	n	_	13	comp	_	Gloss=torch
+12	tosi	tosi_1	NOUN	n	_	13	comp:det	_	Gloss=torch
 13	-tano	-tano	DET	n:(NounGenderNumber)	Number=Sing	14	comp	_	Gloss=-X.SG|NounClass=Tww10
 14	-lo	-lo_3	NOUN	n	Case=Com	10	mod:appos	_	Gloss=-COM
-15	sane	sane	NOUN	n  (pe)	_	16	comp	_	Gloss=bow
+15	sane	sane	NOUN	n  (pe)	_	16	comp:det	_	Gloss=bow
 16	-pe	-pe	DET	n:(NounGenderNumber)	Number=Sing	17	comp	_	Gloss=-VIII.SG|NounClass=Tww8
 17	-lo	-lo_3	NOUN	n	Case=Com	10	mod:appos	_	Gloss=-COM
 18	mwe	mwe	PRON	pers	Gender=Masc|Number=Sing|Person=3|PronType=Prs	19	comp	_	Gloss=DEM1:3SG.M
 19	-fa	-fa_3	X	Pro-form	Case=Dis	10	cc	_	Gloss=-DISTR
-20	sane	sane	NOUN	n  (pe)	_	21	comp	_	Gloss=bow
+20	sane	sane	NOUN	n  (pe)	_	21	comp:det	_	Gloss=bow
 21	-pe	-pe	DET	n:(NounGenderNumber)	Number=Sing	22	comp	_	Gloss=-VIII.SG|NounClass=Tww8
 22	-lo	-lo_3	NOUN	n	Case=Com	18	mod:appos	_	Gloss=-COM
 23	ni	ni_1	NOUN	n  (tanoi)tano	_	24	compound	_	Gloss=fire
-24	tosi	tosi_1	NOUN	n	_	25	comp	_	Gloss=torch
+24	tosi	tosi_1	NOUN	n	_	25	comp:det	_	Gloss=torch
 25	-tano	-tano	DET	n:(NounGenderNumber)	Number=Sing	26	comp	_	Gloss=-X.SG|NounClass=Tww10
 26	-lo	-lo_3	NOUN	n	Case=Com	18	mod:appos	_	Gloss=-COM
 27	m-	m-	AUX	v:(Modality1)	_	_	_	_	Gloss=?-
@@ -65,23 +65,23 @@
 # doc_id = 2015T22
 # doc_title = 2015T22++
 1	ta	ta_1	PRON	pers	Number=Plur|Person=1|PronType=Prs	6	subj	_	Gloss=1PL
-2	mami	mami_1	NOUN	n  (mo)	_	4	comp	_	Gloss=pig
+2	mami	mami_1	NOUN	n  (mo)	_	4	comp:det	_	Gloss=pig
 3	ha	ha_1	ADJ	adj	_	2	mod	_	Gloss=small
 4	-le	-le_1	X	n:(Num)	Number=Plur	6	comp:obj	_	Gloss=-PL
 5	mo-	m-	AUX	v:(Modality1)	_	7	comp:aux	_	Gloss=?-
 6	how	hou_2	VERB	v	_	5	comp:aux@tense	_	Gloss=to_light(make_light)
-7	-li	-li_1	X	Pro-form	_	0	root:aux	_	Gloss=-?
-8	-me	-me_4	AUX	Verb	_	6	comp	_	Gloss=-?
-9	-se	-se_1	AUX	v:(Aspect/Modality2)	Aspect=Imp	8	comp	_	Gloss=-DUR?
+7	-li	-li_1	X	Pro-form	_	8	comp:aux	_	Gloss=-?
+8	-me	-me_4	AUX	Verb	_	9	comp:aux	_	Gloss=-?
+9	-se	-se_1	AUX	v:(Aspect/Modality2)	Aspect=Imp	0	root	_	Gloss=-DUR?
 
 # sent_id = 2015T22_2.3
 # text = tau -tano uio ife -ma mo- olu -me -se
 # text_en = They run away upstream, toward  the spring of the Tau River
 # doc_id = 2015T22
 # doc_title = 2015T22++
-1	tau	tau	PROPN	PN_hydronym	_	2	comp	_	Gloss=Tau
+1	tau	tau	PROPN	PN_hydronym	_	2	comp:det	_	Gloss=Tau
 2	-tano	-tano	DET	n:(NounGenderNumber)	Number=Sing	3	mod	_	Gloss=-X.SG|NounClass=Tww10
-3	uio	uio	NOUN	n	_	4	compound	_	Gloss=spring
+3	uio	uio	NOUN	n	_	4	comp	_	Gloss=spring
 4	ife	ife	ADV	adv	_	5	comp	_	Gloss=upstream
 5	-ma	-ma_1	ADP	n:Tout	Case=All	6	mod	_	Gloss=-ALL
 6	mo-	m-	AUX	v:(Modality1)	_	9	comp:aux	_	Gloss=?-
@@ -94,7 +94,7 @@
 # text_en = We search with the torshs in a garden planted with sweet potato.
 # doc_id = 2015T22
 # doc_title = 2015T22++
-1	sinari	sinali	NOUN	n	_	2	comp	_	Gloss=sweet_potato
+1	sinari	sinali	NOUN	n	_	2	comp:det	_	Gloss=sweet_potato
 2	-he	-he_1	DET	n:(NounGenderNumber)	Number=Sing	4	mod	_	Gloss=-IV.SG|NounClass=Tww4
 3	m-	m-	AUX	v:(Modality1)	_	5	comp:aux	_	Gloss=?-
 4	osisia	osisia	VERB	v	_	3	comp:aux	_	Gloss=to_light
