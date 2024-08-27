@@ -70,3 +70,79 @@
 3	mali	mali	VERB	v	_	4	discourse	_	Gloss=to_talk
 4	uweio	uweio_1	ADV	adv	_	0	root	_	Gloss=nothing
 
+# sent_id = 1.7
+# text = mami o -mo -io
+# text_en = "It's a pikinini pig"/"pikinini pig ya."
+# doc_id = 141111_01_T31
+# doc_title = 141111_01_T31
+1	mami	mami_1	NOUN	n  (mo)	_	3	comp:det	_	Gloss=pig
+2	o	o_3	NOUN	n	_	1	compound	_	Gloss=child
+3	-mo	-mo_1	DET	n:(NounGenderNumber)	Number=Sing	4	subj	_	Gloss=-III.SG|NounClass=Tww3
+4	-io	-io_1	AUX	v:(Chaining)	VerbForm=Fin	0	root	_	Gloss=-FIN
+
+# sent_id = 1.8
+# text = minami ta m- otei
+# text_en = then we killed it.
+# doc_id = 141111_01_T31
+# doc_title = 141111_01_T31
+1	minami	minami	ADV	adv	_	3	mod	_	Gloss=then
+2	ta	ta_1	PRON	pers	Number=Plur|Person=1|PronType=Prs	3	subj	_	Gloss=1PL
+3	m-	m-	AUX	v:(Modality1)	_	0	root	_	Gloss=?-
+4	otei	otei	VERB	v	_	3	comp:aux	_	Gloss=to_kill
+
+# sent_id = 1.9
+# text = m- oti -nami saa -tano upasi -ma futei
+# text_en = After having killed it,  we cooked  on the bank of the river Saa./kilim pinis yumi mumu long Saa yet.
+# doc_id = 141111_01_T31
+# doc_title = 141111_01_T31
+1	m-	m-	AUX	v:(Modality1)	_	_	_	_	Gloss=?-
+2	oti	otei	VERB	v	_	_	_	_	Gloss=to_kill
+3	-nami	-nami	ADV	v:(Chaining)	_	_	_	_	Gloss=after
+4	saa	saa_2	PROPN	PN_hydronym	_	5	comp:det	_	Gloss=Saa_River
+5	-tano	-tano	DET	n:(NounGenderNumber)	Number=Sing	6	compound	_	Gloss=-X.SG|NounClass=Tww10
+6	upasi	upase	NOUN	n  (he)	_	7	comp	_	Gloss=sand_bank
+7	-ma	-ma_1	ADP	n:Tout	Case=All	8	mod	_	Gloss=-ALL
+8	futei	futei	VERB	v	_	0	root	_	Gloss=to_cook_with_stone
+
+# sent_id = 1.10
+# text = futi -nami mutu tete
+# text_en = After having coocked,  we put the leaves.
+# doc_id = 141111_01_T31
+# doc_title = 141111_01_T31
+1	futi	futei	VERB	v	_	_	_	_	Gloss=to_cook_with_stone
+2	-nami	-nami	ADV	v:(Chaining)	_	_	_	_	Gloss=after
+3	mutu	motu_1	VERB	v	_	4	comp:svc	_	Gloss=put_leaves_for_braising
+4	tete	tete_1	NOUN	n	_	0	root	_	Gloss=food
+
+# sent_id = 1.11
+# text = motu tete -nami ta hao klas -lei
+# text_en = After having put the leaves, we went for fish.
+# doc_id = 141111_01_T31
+# doc_title = 141111_01_T31
+1	motu	motu_1	VERB	v	_	_	_	_	Gloss=put_leaves_for_braising
+2	tete	tete_1	NOUN	n	_	_	_	_	Gloss=food
+3	-nami	-nami	ADV	v:(Chaining)	_	_	_	_	Gloss=after
+4	ta	ta_1	PRON	pers	Number=Plur|Person=1|PronType=Prs	7	subj	_	Gloss=1PL
+5	hao	hao	NOUN	n  (fo)	_	7	comp:obj	_	Gloss=fish
+6	klas	klas	VERB	v	_	7	comp:aux	_	Gloss=to_fish_with_glasses
+7	-lei	-lei_1	X	v:(GenderNumber)	Number=Plur	0	root	_	Gloss=-PL
+
+# sent_id = 1.12
+# text = me- -aple me- -aple -nami nisopu -mo meta -nami heisefe wa- ia onoma
+# text_en = After having done that, and after having removed the stone, we came back to the house./Mipela dive pinis na mipla raussim mumu pinis. na mipla kam beck long haus.
+# doc_id = 141111_01_T31
+# doc_title = 141111_01_T31
+1	me-	m-	AUX	v:(Modality1)	_	_	_	_	Gloss=?-
+2	-aple	-aple	AUX	v:(Aspect/Modality2)	Aspect=Perf	_	_	_	Gloss=-PRF
+3	me-	m-	AUX	v:(Modality1)	_	_	_	_	Gloss=?-
+4	-aple	-aple	AUX	v:(Aspect/Modality2)	Aspect=Perf	_	_	_	Gloss=-PRF
+5	-nami	-nami	ADV	v:(Chaining)	_	_	_	_	Gloss=after
+6	nisopu	nesopu	NOUN	n  (mo)	_	7	comp:det	_	Gloss=braising
+7	-mo	-mo_1	DET	n:(NounGenderNumber)	Number=Sing	_	_	_	Gloss=-III.SG|NounClass=Tww3
+8	meta	meta	VERB	v	_	_	_	_	Gloss=chase_out_braising_stone_and_eat
+9	-nami	-nami	ADV	v:(Chaining)	_	_	_	_	Gloss=after
+10	heisefe	eisefe	ADV	adv	_	12	mod	_	Gloss=back
+11	wa-	wa-_1	AUX	v:(Modality1)	_	12	mod	_	Gloss=back-
+12	ia	ia_1	VERB	v	_	0	root	_	Gloss=kam
+13	onoma	onoma	ADV	adv	_	12	mod	_	Gloss=to_house
+
