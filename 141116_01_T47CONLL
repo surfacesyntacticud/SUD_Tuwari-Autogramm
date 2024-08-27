@@ -1,0 +1,16 @@
+# sent_id = 1.1
+# text = a honu afetei -ne iowe i -nai -mwii
+# text_en = I will leave here and go.
+# doc_id = 141116_T46bis
+# doc_title = My trip back home
+1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	10	subj	_	Gloss=1SG
+2	honu	honu	ADV	adv	Case=Loc	_	_	_	Gloss=LOC:here;there
+3	afetei	afetei	VERB	v	_	_	_	_	Gloss=to_leave
+4	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	_	_	_	Gloss=-MED
+5	iowe	iowe	VERB	v	_	_	_	_	Gloss=to_go
+6	i	i	VERB	light verb	_	_	_	_	Gloss=to_go|VerbType=Light
+7	-nai	-nai	AUX	v:(Aspect/Modality2)	Mood=Irr	_	_	_	Gloss=-IRR
+8	-m	-me_5	PRON	_	PronType=Dem	_	_	_	Gloss=-DEM1
+9	-wi	-we_5	X	_	Gender=Masc|Number=Sing	_	_	_	Gloss=-M.SG
+10	-i	-io_1	AUX	_	_	_	_	_	Gloss=-FIN
+
