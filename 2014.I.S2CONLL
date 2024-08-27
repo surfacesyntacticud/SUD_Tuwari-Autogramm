@@ -1,0 +1,24 @@
+# sent_id = 3
+# text = a fali peisa u -wo
+# text_en = I'm fine [I sleep well]/ mi stap gut!
+# doc_id = 2014.I.S2
+# doc_title = 2014.I.S2
+1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	5	subj	_	Gloss=1SG
+2	fali	fali	VERB	v	Aspect=Compl	5	mod	_	Gloss=COMPL
+3	peisa	peisa	ADV	adv	_	5	mod	_	Gloss=good
+4	u	u_2	VERB	v	_	5	comp:aux	_	Gloss=to_sleep
+5	-wo	-io_1	AUX	v:(Chaining)	VerbForm=Fin	_	_	_	Gloss=-FIN
+
+# sent_id = 4
+# text = a fali peisa u -mwii
+# text_en = I (M) 'm fine [I (M) sleep well]
+# doc_id = 2014.I.S2
+# doc_title = 2014.I.S2
+1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	7	subj	_	Gloss=1SG
+2	fali	fali	VERB	v	Aspect=Compl	7	mod	_	Gloss=COMPL
+3	peisa	peisa	ADV	adv	_	7	mod	_	Gloss=good
+4	u	u_2	VERB	v	_	5	comp:det	_	Gloss=to_sleep
+5	-m	-me_5	PRON	_	PronType=Dem	6	comp:det	_	Gloss=-DEM1
+6	-wi	-we_5	X	_	Gender=Masc|Number=Sing	7	comp:aux	_	Gloss=-M.SG
+7	-i	-io_1	AUX	_	_	0	root	_	Gloss=-FIN
+
