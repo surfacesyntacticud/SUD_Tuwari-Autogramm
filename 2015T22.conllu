@@ -495,7 +495,7 @@
 # doc_id = 2015T22
 # doc_title = 2015T22++
 1	lei	lei_1	VERB	v	_	_	_	_	Gloss=to_look
-2	-mo	-mo_6	VERB	v	VerbForm=Med	_	_	_	Gloss=-MED2simultaneous
+2	-mo	-mo_6	VERB	v	VerbForm=Med	5	conj:conj	_	Gloss=-MED2simultaneous
 3	so	so_1	NOUN	n  (he)	_	_	_	_	Gloss=time
 4	-nehe	-nehe	PRON	n:Tout	PronType=Dem	_	_	_	Gloss=-DEM.PROX(DEM2:DEM4)
 5	temooieio	temooieio	NOUN	n	_	_	_	_	Gloss=day_light
