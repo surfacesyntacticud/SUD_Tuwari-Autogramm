@@ -1,0 +1,39 @@
+# sent_id = 1.1
+# text = aio homo -ma i -na ano nuliaio so -he kokua lo -m -wo
+# text_en = I would like to go the bush, but the weather is bad.
+# doc_id = 141124_01_T53
+# doc_title = 141124_01_T53 ++
+1	aio	aio_1	INTJ	interj	_	6	subj	_	Gloss=ay!
+2	homo	homo	NOUN	n	_	3	comp	_	Gloss=bush
+3	-ma	-ma_1	ADP	n:Tout	Case=All	5	mod	_	Gloss=-ALL
+4	i	i	VERB	light verb	_	5	comp:aux	_	Gloss=to_go|VerbType=Light
+5	-na	-ne_1	AUX	v:(Chaining)	VerbForm=Med	6	conj:conj	_	Gloss=-MED
+6	ano	ano_1	VERB	v	_	7	conj:coord	_	Gloss=to_want
+7	nuliaio	nulia	ADV	adv	_	13	conj:coord	_	Gloss=adversatif_temporel_but
+8	so	so_1	NOUN	n  (he)	_	9	comp:det	_	Gloss=time
+9	-he	-he_1	DET	n:(NounGenderNumber)	Number=Sing	13	subj	_	Gloss=-IV.SG|NounClass=Tww4
+10	kokua	kokua	ADJ	adj	_	13	mod	_	Gloss=bad
+11	lo	lo_2	AUX	v	_	12	comp:det	_	Gloss=COP|VerbType=Cop
+12	-m	-me_5	PRON	v:(GenderNumber)	PronType=Dem	13	comp:aux	_	Gloss=-DEM1
+13	-wo	-io_1	AUX	v:(Chaining)	VerbForm=Fin	0	root	_	Gloss=-FIN
+
+# sent_id = 1.2
+# text = fa f- i -nai -ne -mwii otoiso i -nai -mwii
+# text_en = For now I won't go yet, tomorrow I will go.
+# doc_id = 141124_01_T53
+# doc_title = 141124_01_T53 ++
+1	fa	fa_2	ADV	adv	_	8	mod	_	Gloss=for_now
+2	f-	fe-	AUX	v:(Polarity)	Polarity=NEG	5	comp:aux	_	Gloss=NEG-
+3	i	i	VERB	light verb	_	4	comp:aux	_	Gloss=to_go|VerbType=Light
+4	-nai	-nai	AUX	v:(Aspect/Modality2)	Mood=Irr	2	comp:aux	_	Gloss=-IRR
+5	-ne	-ne_9	AUX	v:(Polarity2)	Polarity=NEG	6	comp:det	_	Gloss=-NEG2
+6	-m	-me_5	PRON	_	PronType=Dem	7	comp:det	_	Gloss=-DEM1
+7	-wi	-we_5	X	_	Gender=Masc|Number=Sing	8	comp:aux	_	Gloss=-M.SG
+8	-i	-io_1	AUX	_	_	14	parataxis	_	Gloss=-FIN
+9	otoiso	otoiso	ADV	adv	_	14	mod	_	Gloss=tomorrow
+10	i	i	VERB	light verb	_	11	comp:aux	_	Gloss=to_go|VerbType=Light
+11	-nai	-nai	AUX	v:(Aspect/Modality2)	Mood=Irr	12	comp:det	_	Gloss=-IRR
+12	-m	-me_5	PRON	_	PronType=Dem	13	comp:det	_	Gloss=-DEM1
+13	-wi	-we_5	X	_	Gender=Masc|Number=Sing	14	comp:aux	_	Gloss=-M.SG
+14	-i	-io_1	AUX	_	_	0	root	_	Gloss=-FIN
+
