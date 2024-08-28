@@ -9,6 +9,17 @@
 4	u	u_2	VERB	v	_	5	comp:aux	_	Gloss=to_sleep
 5	-no	-no_1	AUX	v:(Mood)	Case=Int	0	root	_	Gloss=-Q
 
+# sent_id = 2
+# text = he peisa to- u -no
+# text_en = How are you (F) [you (F) sleep well?]/yu (F) olsem wanem?
+# doc_id = 2014.I.S2
+# doc_title = 2014.I.S2
+1	he	he_2	PRON	pers	Gender=Fem|Number=Sing|Person=2|PronType=Prs	4	subj	_	Gloss=2SG.F
+2	peisa	peisa	ADV	adv	_	4	mod	_	Gloss=good
+3	to-	to-_1	AUX	v:(Modality1)	_	4	mod	_	Gloss=?-
+4	u	u_2	VERB	v	_	5	comp:aux	_	Gloss=to_sleep
+5	-no	-no_1	AUX	v:(Mood)	Case=Int	0	root	_	Gloss=-Q
+
 # sent_id = 3
 # text = a fali peisa u -wo
 # text_en = I'm fine [I sleep well]/ mi stap gut!
