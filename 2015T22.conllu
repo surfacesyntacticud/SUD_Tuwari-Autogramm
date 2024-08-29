@@ -346,8 +346,8 @@
 33	to	tou_1	VERB	v	_	32	comp:aux	_	Gloss=to_cut
 34	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	35	comp:aux	_	Gloss=-MED
 35	-nami	-nami	ADV	v:(Chaining)	_	41	conj:appos	_	Gloss=after
-36	fu	fu_1	NOUN	n  (fo)	_	38	comp:det	_	Gloss=stone
-37	ni	ni_1	NOUN	n  (tanoi)tano	_	36	compound	_	Gloss=fire
+36	fu	fu_1	NOUN	n  (fo)	_	37	mod:poss	_	Gloss=stone
+37	ni	ni_1	NOUN	n  (tanoi)tano	_	38	comp:det	_	Gloss=fire
 38	-tano	-tano	DET	n:(NounGenderNumber)	Number=Sing	41	comp:obj	_	Gloss=-X.SG|NounClass=Tww10
 39	m-	m-	AUX	v:(Modality1)	_	41	comp:aux	_	Gloss=?-
 40	alo	alu	VERB	v	_	39	comp:aux	_	Gloss=to_light_fire

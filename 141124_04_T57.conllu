@@ -1,0 +1,82 @@
+# sent_id = 1.1
+# text = omai me opusono si hene -le honu f- a -ne f- le -nai -ne -mwii
+# text_en = Man, yu can't come and build [house] here, on this village land.
+# doc_id = 141124_04_T57
+# doc_title = 141124_04_T57 fiction sali : conflit terrain ++
+1	omai	omai	INTJ	interj	_	17	vocative	_	Gloss=man
+2	me	me_1	PRON	pers	Gender=Masc|Number=Sing|Person=2|PronType=Prs	17	subj	_	Gloss=2SG.M
+3	opusono	opsono	NOUN	n	_	4	mod:poss	_	Gloss=village
+4	si	si_5	NOUN	n  (he)	_	6	comp:det	_	Gloss=land
+5	hene	hene_2	PRON	dem	PronType=Dem	4	comp:det	_	Gloss=DEM4:DEM2
+6	-le	-li_1	X	Pro-form	_	10	mod	_	Gloss=-?
+7	honu	honu	ADV	adv	Case=Loc	10	mod	_	Gloss=LOC:here;there
+8	f-	fe-	AUX	v:(Polarity)	Polarity=NEG	10	comp:aux	_	Gloss=NEG-
+9	a	a_1	VERB	v	_	8	comp:aux	_	Gloss=to_come
+10	-ne	-ne_9	AUX	v:(Polarity2)	Polarity=NEG	17	conj:appos	_	Gloss=-NEG2
+11	f-	fe-	AUX	v:(Polarity)	Polarity=NEG	13	comp:aux	_	Gloss=NEG-
+12	le	lo_2	VERB	v	_	11	comp:aux	_	Gloss=to_build_house
+13	-nai	-nai	AUX	v:(Aspect/Modality2)	Mood=Irr	14	comp:aux	_	Gloss=-CAP
+14	-ne	-ne_9	AUX	v:(Polarity2)	Polarity=NEG	15	comp:det	_	Gloss=-NEG2
+15	-m	-me_5	PRON	_	PronType=Dem	16	comp:det	_	Gloss=-DEM1
+16	-wi	-we_5	X	_	Gender=Masc|Number=Sing	17	comp:aux	_	Gloss=-M.SG
+17	-i	-io_1	AUX	_	_	0	root	_	Gloss=-FIN
+
+# sent_id = 1.2
+# text = si -tu hene -le a -ha -i
+# text_en = This land is mine.
+# doc_id = 141124_04_T57
+# doc_title = 141124_04_T57 fiction sali : conflit terrain ++
+1	si	si_5	NOUN	n  (he)	_	4	comp:det	_	Gloss=land
+2	-tu	-tu	DET	Noun	_	1	comp:det	_	Gloss=?
+3	hene	hene_2	PRON	dem	PronType=Dem	1	comp:det	_	Gloss=DEM4:DEM2
+4	-le	-li_1	X	Pro-form	_	_	_	_	Gloss=-?
+5	a	a_2	DET	poss	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	comp:det	_	Gloss=1SG.POSS
+6	-ha	-he_1	DET	n:(NounGenderNumber)	Number=Sing	7	comp:aux	_	Gloss=-IV.SG|NounClass=Tww4
+7	-i	-io_1	AUX	v:(Chaining)	VerbForm=Fin	0	root	_	Gloss=-FIN
+
+# sent_id = 1.3
+# text = me ufe homamwoia i -ne le
+# text_en = Go and build a house over there.
+# doc_id = 141124_04_T57
+# doc_title = 141124_04_T57 fiction sali : conflit terrain ++
+1	me	me_1	PRON	pers	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	subj	_	Gloss=2SG.M
+2	ufe	ufe	ADV	adv	_	6	mod	_	Gloss=la_hap
+3	homamwoia	numwaia	ADV	adv	Case=Loc	6	mod	_	Gloss=LOC:there
+4	i	i	VERB	light verb	_	5	comp:aux	_	Gloss=to_go|VerbType=Light
+5	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	6	conj:appos	_	Gloss=-MED
+6	le	lo_2	VERB	v	_	0	root	_	Gloss=to_make
+
+# sent_id = 1.4
+# text = waai nomu -sa -le
+# text_en = somewhere...
+# doc_id = 141124_04_T57
+# doc_title = 141124_04_T57 fiction sali : conflit terrain ++
+1	waai	waai_3	ADJ	adj	_	_	_	_	Gloss=go_quick
+2	nomu	nomu	ADV	adv	Case=Loc	_	_	_	Gloss=LOC:there
+3	-sa	se_4	PRON	n:(NounGenderNumber)	Definite=Ind|PronType=Dem	_	_	_	Gloss=DEM3.INDEF
+4	-le	-le_1	X	n:(Num)	Number=Plur	0	root	_	Gloss=-PL
+
+# sent_id = 1.5
+# text = fefe si hono -fo a -fo -i
+# text_en = This taro land is mine.
+# doc_id = 141124_04_T57
+# doc_title = 141124_04_T57 fiction sali : conflit terrain ++
+1	fefe	fefe	NOUN	n  (mo)	_	2	mod:poss	_	Gloss=taro
+2	si	si_2	NOUN	n  (fo)	_	4	comp:det	_	Gloss=bush_ground
+3	hono	hene_2	PRON	dem	PronType=Dem	2	comp:det	_	Gloss=DEM4:DEM2
+4	-fo	-fo	DET	n:(NounGenderNumber)	Number=Sing	7	subj	_	Gloss=-V.SG|NounClass=Tww5
+5	a	a_2	DET	poss	Number=Sing|Person=1|Poss=Yes|PronType=Prs	6	comp:det	_	Gloss=1SG.POSS
+6	-fo	-fo	DET	n:(NounGenderNumber)	Number=Sing	7	comp:aux	_	Gloss=-V.SG|NounClass=Tww5
+7	-i	-io_1	AUX	v:(Chaining)	VerbForm=Fin	0	root	_	Gloss=-FIN
+
+# sent_id = 1.7
+# text = mo -fo a -fo -i
+# text_en = It's mine!
+# doc_id = 141124_04_T57
+# doc_title = 141124_04_T57 fiction sali : conflit terrain ++
+1	mo	mo_1	PRON	pers	Animacy=Nhum|Number=Sing|Person=3|PronType=Prs	2	comp:det	_	Gloss=DEM1.3SG.NOT_HUM
+2	-fo	-fo	DET	n:(NounGenderNumber)	Number=Sing	5	subj	_	Gloss=-V.SG|NounClass=Tww5
+3	a	a_2	DET	poss	Number=Sing|Person=1|Poss=Yes|PronType=Prs	4	comp:det	_	Gloss=1SG.POSS
+4	-fo	-fo	DET	n:(NounGenderNumber)	Number=Sing	5	comp:aux	_	Gloss=-V.SG|NounClass=Tww5
+5	-i	-io_1	AUX	v:(Chaining)	VerbForm=Fin	0	root	_	Gloss=-FIN
+

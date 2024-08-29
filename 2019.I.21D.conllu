@@ -1,3 +1,24 @@
+# sent_id = 1
+# text = toisooio me nasu solo -no
+# text_en = Good morngin, how are you?
+# doc_id = 2019.I.21D
+# doc_title = Dialog 2.7: mi sori lo yu! husat i mekim displa sua?
+1	toisooio	toisooi	INTJ	interj	_	_	_	_	Gloss=good_morning
+2	me	me_1	PRON	pers	Gender=Masc|Number=Sing|Person=2|PronType=Prs	4	subj	_	Gloss=2SG.M
+3	nasu	nasu	PRON	interrog	PronType=Int	4	mod	_	Gloss=how
+4	solo	sele_1	VERB	v	_	5	goeswith	_	Gloss=to_be(in_such_condition)
+5	-no	-no_1	AUX	v:(Mood)	Case=Int	0	root	_	Gloss=-Q
+
+# sent_id = 2.1
+# text = a kokua solo -wo
+# text_en = I feel bad.
+# doc_id = 2019.I.21D
+# doc_title = Dialog 2.7: mi sori lo yu! husat i mekim displa sua?
+1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	4	subj	_	Gloss=1SG
+2	kokua	kokua	ADJ	adj	_	4	mod	_	Gloss=bad
+3	solo	sele_1	VERB	v	_	4	comp:aux	_	Gloss=to_be(in_such_condition)
+4	-wo	-io_1	AUX	v:(Chaining)	VerbForm=Fin	0	root	_	Gloss=-FIN
+
 # sent_id = 2.4
 # text = a opalo kali -mo helefe lo -wo
 # text_en = I have a big wound on the leg.
@@ -6,7 +27,7 @@
 1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	_	_	_	Gloss=1SG
 2	opalo	hopalu	NOUN	n  (mo)	_	_	_	_	Gloss=wound
 3	kali	kali_2	ADJ	adj	_	_	_	_	Gloss=big
-4	-mo	-mo_1	DET	n:(NounGenderNumber)	NounClass=Tww3|Number=Sing	_	_	_	Gloss=-III.SG
+4	-mo	-mo_1	DET	n:(NounGenderNumber)	Number=Sing	_	_	_	Gloss=-III.SG|NounClass=Tww3
 5	helefe	helefe	NOUN	n	_	_	_	_	Gloss=leg
 6	lo	lo_2	VERB	v	_	_	_	_	Gloss=to_have
 7	-wo	-io_1	AUX	v:(Chaining)	VerbForm=Fin	0	root	_	Gloss=-FIN
