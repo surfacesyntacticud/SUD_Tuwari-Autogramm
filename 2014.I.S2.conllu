@@ -44,3 +44,120 @@
 6	-wi	-we_5	X	_	Gender=Masc|Number=Sing	7	comp:aux	_	Gloss=-M.SG
 7	-i	-io_1	AUX	_	_	0	root	_	Gloss=-FIN
 
+# sent_id = 5
+# text = a peisa f- u -ne -io
+# text_en = I didn't sleep well
+# doc_id = 2014.I.S2
+# doc_title = 2014.I.S2
+1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	6	subj	_	Gloss=1SG
+2	peisa	peisa	ADV	adv	_	6	mod	_	Gloss=good
+3	f-	fe-	AUX	v:(Polarity)	Polarity=NEG	5	comp:aux	_	Gloss=NEG-
+4	u	u_2	VERB	v	_	3	comp:aux	_	Gloss=to_sleep
+5	-ne	-ne_9	AUX	v:(Polarity2)	Polarity=NEG	6	comp:aux	_	Gloss=-NEG2
+6	-io	-io_1	AUX	v:(Chaining)	VerbForm=Fin	0	root	_	Gloss=-FIN
+
+# sent_id = 6
+# text = a kokuwa u -wo
+# text_en = I sleep bad.
+# doc_id = 2014.I.S2
+# doc_title = 2014.I.S2
+1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	4	subj	_	Gloss=1SG
+2	kokuwa	kokua	ADJ	adj	_	4	mod	_	Gloss=bad
+3	u	u_2	VERB	v	_	4	comp:aux	_	Gloss=to_sleep
+4	-wo	-io_1	AUX	v:(Chaining)	VerbForm=Fin	0	root	_	Gloss=-FIN
+
+# sent_id = 7
+# text = me peisa m- u -ne
+# text_en = You sleep well.
+# doc_id = 2014.I.S2
+# doc_title = 2014.I.S2
+1	me	me_1	PRON	pers	Gender=Masc|Number=Sing|Person=2|PronType=Prs	5	subj	_	Gloss=2SG.M
+2	peisa	peisa	ADV	adv	_	5	mod	_	Gloss=good
+3	m-	m-	AUX	v:(Modality1)	_	5	comp:aux	_	Gloss=?-
+4	u	u_2	VERB	v	_	3	comp:aux	_	Gloss=to_sleep
+5	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	0	root	_	Gloss=-MED
+
+# sent_id = 8
+# text = a peisa m- u -ne a -mwii
+# text_en = I (M) 'm fine [I (M) sleep well and came]
+# doc_id = 2014.I.S2
+# doc_title = 2014.I.S2
+1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	9	subj	_	Gloss=1SG
+2	peisa	peisa	ADV	adv	_	5	mod	_	Gloss=good
+3	m-	m-	AUX	v:(Modality1)	_	5	comp:aux	_	Gloss=?-
+4	u	u_2	VERB	v	_	3	comp:aux	_	Gloss=to_sleep
+5	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	9	conj:appos	_	Gloss=-MED
+6	a	a_1	VERB	v	_	7	comp:det	_	Gloss=to_come
+7	-m	-me_5	PRON	_	PronType=Dem	8	comp:det	_	Gloss=-DEM1
+8	-wi	-we_5	X	_	Gender=Masc|Number=Sing	9	comp:aux	_	Gloss=-M.SG
+9	-i	-io_1	AUX	_	_	0	root	_	Gloss=-FIN
+
+# sent_id = 9
+# text = a so -le u -lo -wo u -lo -mwii
+# text_en = I did sleep well.
+# doc_id = 2014.I.S2
+# doc_title = 2014.I.S2
+1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	11	subj	_	Gloss=1SG
+2	so	so_1	NOUN	n  (he)	_	3	comp:det	_	Gloss=time
+3	-le	-le_1	X	n:(Num)	Number=Plur	7	compound@lvc	_	Gloss=-PL
+4	u	u_2	VERB	v	_	5	comp:aux	_	Gloss=to_sleep
+5	-lo	-lo_4	AUX	v:(Tense)	Tense=Past	6	comp:aux	_	Gloss=-PST
+6	-wo	-io_1	AUX	v:(Chaining)	VerbForm=Fin	11	parataxis	_	Gloss=-FIN
+7	u	u_2	VERB	v	_	8	comp:aux	_	Gloss=to_sleep
+8	-lo	-lo_4	AUX	v:(Tense)	Tense=Past	9	comp:det	_	Gloss=-PST
+9	-m	-me_5	PRON	_	PronType=Dem	10	comp:det	_	Gloss=-DEM1
+10	-wi	-we_5	X	_	Gender=Masc|Number=Sing	11	comp:aux	_	Gloss=-M.SG
+11	-i	-io_1	AUX	_	_	0	root	_	Gloss=-FIN
+
+# sent_id = 10
+# text = me fali te -mso u -no
+# text_en = Are you (M) married? /(You married pinis?)
+# doc_id = 2014.I.S2
+# doc_title = 2014.I.S2
+1	me	me_1	PRON	pers	Gender=Masc|Number=Sing|Person=2|PronType=Prs	6	subj	_	Gloss=2SG.M
+2	fali	fali	VERB	v	Aspect=Compl	6	mod	_	Gloss=COMPL
+3	te	te_1	NOUN	n	_	4	comp:det	_	Gloss=woman->wife?
+4	-mso	-mso	PRON	n:(NounGenderNumber)	Gender=Fem|Number=Dual|PronType=Dem	5	comp:obj	_	Gloss=-DEM1:DU.F
+5	u	u_2	VERB	v	_	6	comp:aux	_	Gloss=to_mary
+6	-no	-no_1	AUX	v:(Mood)	Case=Int	0	root	_	Gloss=-Q
+
+# sent_id = 11
+# text = a fali te -mso u -wo
+# text_en = I have married a wife.
+# doc_id = 2014.I.S2
+# doc_title = 2014.I.S2
+1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	6	subj	_	Gloss=1SG
+2	fali	fali	VERB	v	Aspect=Compl	6	mod	_	Gloss=COMPL
+3	te	te_1	NOUN	n	_	4	comp:det	_	Gloss=woman->wife?
+4	-mso	-mso	PRON	n:(NounGenderNumber)	Gender=Fem|Number=Dual|PronType=Dem	5	comp:obj	_	Gloss=-DEM1:DU.F
+5	u	u_2	VERB	v	_	6	comp:aux	_	Gloss=to_mary
+6	-wo	-io_1	AUX	v:(Chaining)	VerbForm=Fin	0	root	_	Gloss=-FIN
+
+# sent_id = 12
+# text = he fali to -mwo u -no
+# text_en = Are you (F) married?
+# doc_id = 2014.I.S2
+# doc_title = 2014.I.S2
+1	he	he_2	PRON	pers	Gender=Fem|Number=Sing|Person=2|PronType=Prs	6	subj	_	Gloss=2SG.F
+2	fali	fali	VERB	v	Aspect=Compl	6	mod	_	Gloss=COMPL
+3	to	to_1	NOUN	n	_	4	comp:det	_	Gloss=man
+4	-mwo	-mwo	PRON	n:(NounGenderNumber)	Gender=Masc|Number=Dual|PronType=Dem	5	comp:obj	_	Gloss=-DEM1:DU.M
+5	u	u_2	VERB	v	_	6	comp:aux	_	Gloss=to_mary
+6	-no	-no_1	AUX	v:(Mood)	Case=Int	0	root	_	Gloss=-Q
+
+# sent_id = 28
+# text = me peisa m- u -ne wa- ia -mwiio
+# text_en = You're fine [You're fine and came.]
+# doc_id = 2014.I.S2
+# doc_title = 2014.I.S2
+1	me	me_1	PRON	pers	Gender=Masc|Number=Sing|Person=2|PronType=Prs	10	subj	_	Gloss=2SG.M
+2	peisa	peisa	ADV	adv	_	5	mod	_	Gloss=good
+3	m-	m-	AUX	v:(Modality1)	_	5	comp:aux	_	Gloss=?-
+4	u	u_2	VERB	v	_	3	comp:aux	_	Gloss=to_stay
+5	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	10	conj:appos	_	Gloss=-MED
+6	wa-	wa-_1	AUX	v:(Modality1)	_	10	mod	_	Gloss=back-
+7	ia	ia_1	VERB	v	_	8	comp:det	_	Gloss=to_go
+8	-m	-me_5	PRON	_	PronType=Dem	9	comp:det	_	Gloss=-DEM1
+9	-wi	-we_5	X	_	Gender=Masc|Number=Sing	10	comp:aux	_	Gloss=-M.SG
+10	-io	-io_1	AUX	_	_	0	root	_	Gloss=-FIN
+
