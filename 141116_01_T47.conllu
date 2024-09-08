@@ -56,7 +56,7 @@
 6	sylwa	sylvain	PROPN	PN	_	7	comp:det	_	Gloss=Sylvain
 7	-we	-we_1	DET	n:(NounGenderNumber)	Gender=Masc|Number=Sing	15	subj	_	Gloss=-M.SG|NounClass=Tww1
 8	homou	homou	NOUN	n	_	9	comp:det	_	Gloss=picture
-9	-mi	-mi_1	DET	n:(NounGenderNumber)	Number=Sing	15	comp@lvc	_	Gloss=-XII.SG|NounClass=Tww12
+9	-mi	-mi_1	DET	n:(NounGenderNumber)	Number=Sing	15	compound@lvc	_	Gloss=-XII.SG|NounClass=Tww12
 10	ta	ta_1	PRON	pers	Number=Plur|Person=1|PronType=Prs	13	comp:det	_	Gloss=1PL
 11	-li	-li_7	PRON	pro-form	Case=Acc	12	mod	_	Gloss=-O
 12	-lo	-lo_3	NOUN	n	Case=Com	10	mod	_	Gloss=-COM
@@ -82,7 +82,7 @@
 11	i	i	VERB	light verb	_	12	comp:aux	_	Gloss=to_go|VerbType=Light
 12	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	17	conj:appos	_	Gloss=-MED
 13	homou	homou	NOUN	n	_	14	comp:det	_	Gloss=picture
-14	-mi	-mi_3	DET	Noun	_	16	comp@lvc	_	Gloss=-?
+14	-mi	-mi_3	DET	Noun	_	16	compound	_	Gloss=-?
 15	uwe	uwe_2	NOUN	n	_	17	comp:obj	_	Gloss=little_boy
 16	ne	ne_1	VERB	v	_	17	comp:aux	_	Gloss=to_catch
 17	-io	-io_1	AUX	v:(Chaining)	VerbForm=Fin	0	root	_	Gloss=-FIN
@@ -121,7 +121,7 @@
 3	ta	ta_1	PRON	pers	Number=Plur|Person=1|PronType=Prs	8	subj	_	Gloss=1PL
 4	mene	mene_1	VERB	v	_	8	conj:appos	_	Gloss=to_go
 5	u	u_1	NOUN	n  (tanoi)tano	_	6	comp:det	_	Gloss=water
-6	-le	-le_1	X	n:(Num)	Number=Plur	7	comp@lvc	_	Gloss=-PL
+6	-le	-le_1	X	n:(Num)	Number=Plur	7	compound@lvc	_	Gloss=-PL
 7	hei	hei_1	VERB	v	_	8	comp:aux	_	Gloss=to_go_in_water
 8	-mu	-mu_1	AUX	v:(Aspect/Modality2)	_	0	root	_	Gloss=-?
 
