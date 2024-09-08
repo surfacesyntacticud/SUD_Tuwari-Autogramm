@@ -86,7 +86,7 @@
 2	peisa	peisa	ADV	adv	_	5	mod	_	Gloss=good
 3	m-	m-	AUX	v:(Modality1)	_	5	comp:aux	_	Gloss=?-
 4	u	u_2	VERB	v	_	3	comp:aux	_	Gloss=to_sleep
-5	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	9	conj:appos	_	Gloss=-MED
+5	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	9	conj:chain	_	Gloss=-MED
 6	a	a_1	VERB	v	_	7	comp:det	_	Gloss=to_come
 7	-m	-me_5	PRON	_	PronType=Dem	8	comp:det	_	Gloss=-DEM1
 8	-wi	-we_5	X	_	Gender=Masc|Number=Sing	9	comp:aux	_	Gloss=-M.SG
@@ -154,7 +154,7 @@
 2	peisa	peisa	ADV	adv	_	5	mod	_	Gloss=good
 3	m-	m-	AUX	v:(Modality1)	_	5	comp:aux	_	Gloss=?-
 4	u	u_2	VERB	v	_	3	comp:aux	_	Gloss=to_stay
-5	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	10	conj:appos	_	Gloss=-MED
+5	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	10	conj:chain	_	Gloss=-MED
 6	wa-	wa-_1	AUX	v:(Modality1)	_	10	mod	_	Gloss=back-
 7	ia	ia_1	VERB	v	_	8	comp:det	_	Gloss=to_go
 8	-m	-me_5	PRON	_	PronType=Dem	9	comp:det	_	Gloss=-DEM1

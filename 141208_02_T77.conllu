@@ -41,7 +41,7 @@
 # doc_title = 141207_05_T75 +++
 1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	11	subj	_	Gloss=1SG
 2	i	i	VERB	light verb	_	3	comp:aux	_	Gloss=to_go|VerbType=Light
-3	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	11	conj:appos	_	Gloss=-MED
+3	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	11	conj:chain	_	Gloss=-MED
 4	heisofo	eisefe	ADV	adv	_	11	mod	_	Gloss=back
 5	te-	te-_2	VERB	v	_	7	mod	_	Gloss=really-
 6	wa-	wa-_1	AUX	v:(Modality1)	_	7	mod	_	Gloss=back-

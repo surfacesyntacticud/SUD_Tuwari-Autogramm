@@ -6,7 +6,7 @@
 1	a	a_2	PRON	pers	Number=Sing|Person=1|PronType=Prs	10	subj	_	Gloss=1SG
 2	honu	honu	ADV	adv	Case=Loc	4	mod	_	Gloss=LOC:here;there
 3	afetei	afetei	VERB	v	_	4	comp:aux	_	Gloss=to_leave
-4	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	10	conj:appos	_	Gloss=-MED
+4	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	10	conj:chain	_	Gloss=-MED
 5	iowe	iowe	VERB	v	_	10	mod	_	Gloss=to_go
 6	i	i	VERB	light verb	_	7	comp:aux	_	Gloss=to_go|VerbType=Light
 7	-nai	-nai	AUX	v:(Aspect/Modality2)	Mood=Irr	8	comp:det	_	Gloss=-IRR

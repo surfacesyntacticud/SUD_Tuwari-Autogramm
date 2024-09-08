@@ -130,7 +130,7 @@
 7	-tano	-tano	DET	n:(NounGenderNumber)	Number=Sing	9	comp	_	Gloss=-X.SG|NounClass=Tww10
 8	m-	m-	AUX	v:(Modality1)	_	10	comp:aux	_	Gloss=?-
 9	osisia	osisia	VERB	v	_	8	comp:aux	_	Gloss=to_light
-10	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	15	comp:chain	_	Gloss=-MED
+10	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	15	conj:chain	_	Gloss=-MED
 11	mami	mami_1	NOUN	n  (mo)	_	12	comp	_	Gloss=pig
 12	-no	-no_2	PRON	n:Tout	PronType=Dem	14	subj	_	Gloss=-DEM2
 13	nomu	nomu	ADV	adv	Case=Loc	14	mod	_	Gloss=LOC:there
@@ -201,7 +201,7 @@
 8	-mo	-mo_6	VERB	v	VerbForm=Med	14	conj:conj	_	Gloss=-MED2previousness
 9	mu-	mu-	AUX	v:(dir-)	_	11	comp:aux	_	Gloss=up-
 10	nwa	nua	VERB	v	_	9	comp:aux	_	Gloss=to_carry
-11	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	14	comp:chain	_	Gloss=-MED
+11	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	14	conj:chain	_	Gloss=-MED
 12	m-	m-	AUX	v:(Modality1)	_	14	comp:aux	_	Gloss=?-
 13	i	i	VERB	light verb	_	12	comp:aux	_	Gloss=to_go|VerbType=Light
 14	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	0	root	_	Gloss=-MED
@@ -214,30 +214,30 @@
 # tags = ClauseChain,  DONE
 1	mele	_	_	_	_	21	subj	_	_
 2	-ni	-ni_2	AUX	v:(Aspect/Modality2)	Tense=Fut	_	_	_	Gloss=-?FUT.PROX
-3	-nami	-nami	ADV	v:(Chaining)	_	8	conj:appos	_	Gloss=after
+3	-nami	-nami	ADV	v:(Chaining)	_	8	conj:chain	_	Gloss=after
 4	mine	mine	NOUN	n	_	5	comp:det	_	Gloss=branch_leaf
 5	-le	-le_1	X	n:(Num)	Number=Plur	8	comp:obj	_	Gloss=-PL
 6	me-	m-	AUX	v:(Modality1)	_	8	comp:aux	_	Gloss=?-
 7	tei	tei_3	VERB	v	_	6	comp:aux	_	Gloss=to_cut
-8	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	13	conj:appos	_	Gloss=-MED
+8	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	13	conj:chain	_	Gloss=-MED
 9	hepi	hepi_2	NOUN	n	_	10	comp:det	_	Gloss=leaf
 10	-le	-le_1	X	n:(Num)	Number=Plur	13	comp:obj	_	Gloss=-PL
 11	m-	m-	AUX	v:(Modality1)	_	13	comp:aux	_	Gloss=?-
 12	foo	fo_3	VERB	v	_	11	comp:aux	_	Gloss=to_rope
-13	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	18	conj:appos	_	Gloss=-MED
+13	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	18	conj:chain	_	Gloss=-MED
 14	eni	eni	NOUN	n  (mo)	_	15	comp:det	_	Gloss=rope
 15	-mo	-mo_1	DET	n:(NounGenderNumber)	Number=Sing	18	comp:obj	_	Gloss=-III.SG|NounClass=Tww3
 16	me-	m-	AUX	v:(Modality1)	_	18	comp:aux	_	Gloss=?-
 17	tefi	tefi	VERB	v	_	16	comp:aux	_	Gloss=to_pull
-18	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	21	conj:appos	_	Gloss=-MED
+18	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	21	conj:chain	_	Gloss=-MED
 19	mu-	mu-	AUX	v:(dir-)	_	21	comp:aux	_	Gloss=up-
 20	nuane	nuane	VERB	v	_	19	comp:aux	_	Gloss=to_carry
-21	-nami	-nami	ADV	v:(Chaining)	_	27	conj:appos	_	Gloss=after
+21	-nami	-nami	ADV	v:(Chaining)	_	27	conj:chain	_	Gloss=after
 22	kleiawu	kleiau	PROPN	PN	_	29	subj	_	Gloss=Kleiau
 23	-ei	-ei	AUX	v:(Aspect/Modality2)	_	_	_	_	Gloss=-?
 24	ianiso	ieniso	NOUN	n  (he)	_	25	comp	_	Gloss=shoulder
 25	-ma	-ma_1	ADP	n:Tout	Case=All	26	mod	_	Gloss=-ALL
-26	mu-	mu-	AUX	v:(dir-)	_	29	conj:appos	_	Gloss=up-
+26	mu-	mu-	AUX	v:(dir-)	_	29	conj:chain	_	Gloss=up-
 27	nua -ne	nuane	VERB	v	_	26	comp:aux	_	Gloss=to_carry
 28	iowe	iowe	VERB	v	_	29	mod	_	Gloss=to_go
 29	mio	mio_2	VERB	v	_	0	root	_	Gloss=to_go_down
@@ -250,10 +250,10 @@
 # tags = Gender
 1	mio	mio_2	VERB	v	_	_	_	_	Gloss=to_go_down
 2	-ni	-ni_2	AUX	v:(Aspect/Modality2)	Tense=Fut	_	_	_	Gloss=-?FUT.PROX
-3	-nami	-nami	ADV	v:(Chaining)	_	6	conj:appos	_	Gloss=after
+3	-nami	-nami	ADV	v:(Chaining)	_	6	conj:chain	_	Gloss=after
 4	m-	m-	AUX	v:(Modality1)	_	_	_	_	Gloss=?-
 5	io-	mio-_1	AUX	v:(dir-)	_	_	_	_	Gloss=down-
-6	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	8	conj:appos	_	Gloss=-MED
+6	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	8	conj:chain	_	Gloss=-MED
 7	lei	lei_1	VERB	v	_	8	conj:conj	_	Gloss=to_look
 8	-mo	-mo_6	VERB	v	VerbForm=Med	18	conj:conj	_	Gloss=-MED2simultaneous
 9	upasi	upase	NOUN	n  (he)	_	_	_	_	Gloss=sand_bank
@@ -313,7 +313,7 @@
 # doc_title = 2015T22++
 1	mwe	mwe	PRON	pers	Gender=Masc|Number=Sing|Person=3|PronType=Prs	48	subj	_	Gloss=DEM1:3SG.M
 2	tete	teto	VERB	v	_	3	comp:aux	_	Gloss=to_hit
-3	-nami	-nami	ADV	v:(Chaining)	_	16	conj:appos	_	Gloss=after
+3	-nami	-nami	ADV	v:(Chaining)	_	16	conj:chain	_	Gloss=after
 4	mami	mami_1	NOUN	n  (mo)	_	6	comp:det	_	Gloss=pig
 5	-no	-no_2	PRON	n:Tout	PronType=Dem	4	comp:det	_	Gloss=-DEM2
 6	fo	fo_1	NOUN	n	_	7	comp	_	Gloss=bush_rat
@@ -326,16 +326,16 @@
 13	-mo	-mo_1	DET	n:(NounGenderNumber)	Number=Sing	_	_	_	Gloss=-III.SG|NounClass=Tww3
 14	-lo	-lo_3	NOUN	n	Case=Com	_	_	_	Gloss=-COM
 15	mu-	mu-	AUX	v:(dir-)	_	_	_	_	Gloss=up-
-16	nuane	nuane	VERB	v	_	19	conj:appos	_	Gloss=to_carry
+16	nuane	nuane	VERB	v	_	19	conj:chain	_	Gloss=to_carry
 17	m-	m-	AUX	v:(Modality1)	_	_	_	_	Gloss=?-
 18	u	u_3	VERB	v	_	_	_	_	Gloss=to_go_up
-19	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	25	conj:appos	_	Gloss=-MED
+19	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	25	conj:chain	_	Gloss=-MED
 20	ko	ko	DET	Noun	_	_	_	_	Gloss=above-
 21	teia	teia	NOUN	n  (ei)	_	20	comp	_	Gloss=garden
 22	mamo	mamu	ADV	adv	_	25	comp:obj	_	Gloss=over_there
 23	mo-	m-	AUX	v:(Modality1)	_	25	comp:aux	_	Gloss=?-
 24	fu	fu_2	VERB	v	_	23	comp:aux	_	Gloss=to_put
-25	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	35	conj:appos	_	Gloss=-MED
+25	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	35	conj:chain	_	Gloss=-MED
 26	o	o_2	NOUN	n  (sapoi)	_	28	comp:det	_	Gloss=house
 27	kelia	kaliia	ADJ	adj	_	26	mod	_	Gloss=long
 28	-sapo	-sapo	DET	n:(NounGenderNumber)	Number=Sing	29	comp	_	Gloss=-IX.SG|NounClass=Tww9
@@ -345,13 +345,13 @@
 32	mo-	m-	AUX	v:(Modality1)	_	34	comp:aux	_	Gloss=?-
 33	to	tou_1	VERB	v	_	32	comp:aux	_	Gloss=to_cut
 34	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	35	comp:aux	_	Gloss=-MED
-35	-nami	-nami	ADV	v:(Chaining)	_	41	conj:appos	_	Gloss=after
+35	-nami	-nami	ADV	v:(Chaining)	_	41	conj:chain	_	Gloss=after
 36	fu	fu_1	NOUN	n  (fo)	_	37	mod:poss	_	Gloss=stone
 37	ni	ni_1	NOUN	n  (tanoi)tano	_	38	comp:det	_	Gloss=fire
 38	-tano	-tano	DET	n:(NounGenderNumber)	Number=Sing	41	comp:obj	_	Gloss=-X.SG|NounClass=Tww10
 39	m-	m-	AUX	v:(Modality1)	_	41	comp:aux	_	Gloss=?-
 40	alo	alu	VERB	v	_	39	comp:aux	_	Gloss=to_light_fire
-41	-nami	-nami	ADV	v:(Chaining)	_	48	conj:appos	_	Gloss=after
+41	-nami	-nami	ADV	v:(Chaining)	_	48	conj:chain	_	Gloss=after
 42	mami	mami_1	NOUN	n  (mo)	_	43	comp:det	_	Gloss=pig
 43	-mo	-mo_1	DET	n:(NounGenderNumber)	Number=Sing	_	_	_	Gloss=-III.SG|NounClass=Tww3
 44	heno	heno	X	?	_	_	_	_	Gloss=?

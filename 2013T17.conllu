@@ -22,7 +22,7 @@
 2	-fo	-fo	DET	n:(NounGenderNumber)	Number=Sing	3	comp:obj	_	Gloss=-V.SG|NounClass=Tww5
 3	ateli	ateli	VERB	v	_	4	comp:aux	_	Gloss=to_weed
 4	-aple	-aple	AUX	v:(Aspect/Modality2)	Aspect=Perf	5	comp:aux	_	Gloss=-PRF
-5	-nami	-nami	ADV	v:(Chaining)	_	16	comp:chain	_	Gloss=after
+5	-nami	-nami	ADV	v:(Chaining)	_	16	conj:chain	_	Gloss=after
 6	m-	m-	AUX	v:(Modality1)	_	8	comp:aux	_	Gloss=?-
 7	atli	ateli	VERB	v	_	6	comp:aux	_	Gloss=to_weed
 8	-aple	-aple	AUX	v:(Aspect/Modality2)	Aspect=Perf	9	comp:aux@asp	_	Gloss=-PRF

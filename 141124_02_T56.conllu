@@ -29,8 +29,8 @@
 8	-le	-le_1	X	n:(Num)	Number=Plur	9	comp:obj	_	Gloss=-PL
 9	mi-	m-	AUX	v:(Modality1)	_	10	comp:aux	_	Gloss=?-
 10	aple	aplo_1	VERB	v	_	11	comp:aux	_	Gloss=to_finish
-11	-ni	-ni_2	AUX	v:(Aspect/Modality2)	Tense=Fut	12	conj:appos	_	Gloss=-?FUT.PROX
-12	-o	-io_1	AUX	v:(Chaining)	VerbForm=Fin	14	conj:appos	_	Gloss=-FIN
+11	-ni	-ni_2	AUX	v:(Aspect/Modality2)	Tense=Fut	12	conj:chain	_	Gloss=-?FUT.PROX
+12	-o	-io_1	AUX	v:(Chaining)	VerbForm=Fin	14	conj:chain	_	Gloss=-FIN
 13	a	a_1	VERB	v	_	14	comp:aux	_	Gloss=to_go
 14	-io	-io_1	AUX	v:(Chaining)	VerbForm=Fin	0	root	_	Gloss=-FIN
 
@@ -42,10 +42,10 @@
 1	onoma	onoma	ADV	adv	_	4	mod	_	Gloss=to_house
 2	iaa-	iaa-	AUX	v:(dir-)	_	4	comp:aux	_	Gloss=cross_side
 3	i	i	VERB	light verb	_	2	compound	_	Gloss=to_go|VerbType=Light
-4	-nami	-nami	ADV	v:(Chaining)	_	7	conj:appos	_	Gloss=after
+4	-nami	-nami	ADV	v:(Chaining)	_	7	conj:chain	_	Gloss=after
 5	helefe	helefe	NOUN	n	_	7	mod	_	Gloss=leg
 6	i	i	VERB	light verb	_	7	comp:aux	_	Gloss=to_go|VerbType=Light
-7	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	14	conj:appos	_	Gloss=-MED
+7	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	14	conj:chain	_	Gloss=-MED
 8	siomo	siomo	NOUN	n	_	9	comp:det	_	Gloss=work
 9	-le	-le_1	X	n:(Num)	Number=Plur	10	compound@lvc	_	Gloss=-PL
 10	holua	holua	VERB	v	_	11	comp:aux	_	Gloss=to_work

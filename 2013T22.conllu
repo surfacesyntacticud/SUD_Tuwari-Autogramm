@@ -19,7 +19,7 @@
 # doc_title = 2013T22
 1	io	io	VERB	v	_	2	comp:aux	_	Gloss=to_go
 2	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	8	conj:chain	_	Gloss=-MED
-3	mami	mami_1	NOUN	n  (mo)	_	4	comp:chain	_	Gloss=pig
+3	mami	mami_1	NOUN	n  (mo)	_	4	conj:chain	_	Gloss=pig
 4	tutolo	tutolo	NOUN	n	_	5	comp	_	Gloss=island
 5	-fo	-fo	DET	n:(NounGenderNumber)	Number=Sing	6	comp:obj	_	Gloss=-V.SG|NounClass=Tww5
 6	ofle	oflei	VERB	v	_	7	comp:aux@mod	_	Gloss=to_encircle

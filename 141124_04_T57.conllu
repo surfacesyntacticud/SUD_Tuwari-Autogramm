@@ -12,7 +12,7 @@
 7	honu	honu	ADV	adv	Case=Loc	10	mod	_	Gloss=LOC:here;there
 8	f-	fe-	AUX	v:(Polarity)	Polarity=NEG	10	comp:aux	_	Gloss=NEG-
 9	a	a_1	VERB	v	_	8	comp:aux	_	Gloss=to_come
-10	-ne	-ne_9	AUX	v:(Polarity2)	Polarity=NEG	17	conj:appos	_	Gloss=-NEG2
+10	-ne	-ne_9	AUX	v:(Polarity2)	Polarity=NEG	17	conj:chain	_	Gloss=-NEG2
 11	f-	fe-	AUX	v:(Polarity)	Polarity=NEG	13	comp:aux	_	Gloss=NEG-
 12	le	lo_2	VERB	v	_	11	comp:aux	_	Gloss=to_build_house
 13	-nai	-nai	AUX	v:(Aspect/Modality2)	Mood=Irr	14	comp:aux	_	Gloss=-CAP
@@ -43,7 +43,7 @@
 2	ufe	ufe	ADV	adv	_	6	mod	_	Gloss=la_hap
 3	homamwoia	numwaia	ADV	adv	Case=Loc	6	mod	_	Gloss=LOC:there
 4	i	i	VERB	light verb	_	5	comp:aux	_	Gloss=to_go|VerbType=Light
-5	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	6	conj:appos	_	Gloss=-MED
+5	-ne	-ne_1	AUX	v:(Chaining)	VerbForm=Med	6	conj:chain	_	Gloss=-MED
 6	le	lo_2	VERB	v	_	0	root	_	Gloss=to_make
 
 # sent_id = 1.4
